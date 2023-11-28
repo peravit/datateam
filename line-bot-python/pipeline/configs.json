@@ -37,12 +37,13 @@
     },
     "ats": {
       "ats_detail": "กรุณาเลือกรายการ",
-      "bay": "https://www.liberator.co.th/dl_pdf/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%20ATS.pdf",
-      "bbl": "https://www.liberator.co.th/dl_pdf/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%20ATS.pdf",
-      "ktb": "https://www.liberator.co.th/dl_pdf/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%20ATS.pdf",
-      "scb": "https://www.liberator.co.th/dl_pdf/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%20ATS.pdf",
-      "ttb": "https://www.liberator.co.th/dl_pdf/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%20ATS.pdf",
-      "uob": "https://www.liberator.co.th/dl_pdf/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%20ATS.pdf"
+      "kbank": "https://www.liberator.co.th/dl_pdf/ATS_Manual-Feb2023.pdf",
+      "bay": "https://www.liberator.co.th/dl_pdf/ATS_Manual-Feb2023.pdf",
+      "bbl": "https://www.liberator.co.th/dl_pdf/ATS_Manual-Feb2023.pdf",
+      "ktb": "https://www.liberator.co.th/dl_pdf/ATS_Manual-Feb2023.pdf",
+      "scb": "https://www.liberator.co.th/dl_pdf/ATS_Manual-Feb2023.pdf",
+      "ttb": "https://www.liberator.co.th/dl_pdf/ATS_Manual-Feb2023.pdf",
+      "uob": "https://www.liberator.co.th/dl_pdf/ATS_Manual-Feb2023.pdf"
     }
   },
   "e_service": {

@@ -350,6 +350,16 @@ def openacc_text(reply_tok, receive_text, source):
                                     "height": "sm",
                                     "action": {
                                         "type": "uri",
+                                        "label": "KBANK",
+                                        "uri": config['open_account']['ats']['kbank']
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "style": "link",
+                                    "height": "sm",
+                                    "action": {
+                                        "type": "uri",
                                         "label": "BAY",
                                         "uri": config['open_account']['ats']['bay']
                                     }
