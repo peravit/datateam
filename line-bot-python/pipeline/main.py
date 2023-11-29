@@ -46,6 +46,6 @@ if __name__ == '__main__':
                 host="0.0.0.0",
                 port=443,
                 reload=True,
-                # ssl_keyfile="./certs/private_key.pem", 
-                # ssl_certfile="./certs/cert.pem"
+                ssl_keyfile="./certs/private_key.pem", 
+                ssl_certfile="./certs/cert.pem"
                 )
